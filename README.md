@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Adhith D! 👋
 
-<!--
-**adhithdadhi-18/adhithdadhi-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Python Developer | Full-Stack Development Enthusiast
 
-Here are some ideas to get you started:
+I'm an MCA student interested in Python, full-stack development, software engineering, and cloud technologies. I enjoy building practical applications and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages:** Python, C, C++, JavaScript, PHP
+- **Web:** HTML, CSS, Django, Bootstrap, React
+- **Database:** MySQL, SQL
+- **Cloud:** AWS, Microsoft Azure
+- **Tools:** Git, GitHub, VS Code, XAMPP
+- **OS:** Linux, Windows
+
+### 🚀 Featured Projects
+
+**1. Online Transaction Fraud Detection Using Behaviour Analysis**
+
+A web application that identifies potentially fraudulent credit card transactions using behaviour and location analysis, with suspicious transaction re-verification.
+
+*Python · Django · MySQL · HTML · CSS · JavaScript*
+
+**2. Smart Prescription Management System**
+
+A healthcare application connecting administrators, doctors, patients, and pharmacies for digital prescription creation, viewing, and medicine dispensing.
+
+*PHP · MySQL · HTML · CSS · JavaScript · Bootstrap*
+
+### ☁️ Certifications
+
+- Microsoft Certified: Azure Fundamentals
+- AWS Cloud Computing Internship
+
+### 📫 Connect With Me
+
+- [Portfolio](https://portfolio-adhithdadhi-18.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/adhith-d-395804408)
+- [GitHub](https://github.com/adhithdadhi-18)
